@@ -1,0 +1,19 @@
+Who is a DevOps Engineer?
+A DevOps Engineer is an IT professional who works with software developers, system operators, and other production IT staff to administer code releases. DevOps should have hard as well as soft skills to communicate and collaborate with development, testing, and operations teams.
+
+DevOps approach needs frequent, incremental changes to code versions, which means frequent deployment and testing regimens. Although DevOps engineers need to code occasionally from scratch, it is important that they should have the basics of software development languages.
+
+A DevOps engineer will work with development team staff to tackle the coding and scripting needed to connect elements of code, like libraries or software development kits.
+
+Roles, Responsibilities, and Skills of a DevOps Engineer
+DevOps engineers work full-time. They are responsible for the production and ongoing maintenance of a software application's platform.
+
+Following are some expected Roles, Responsibilities, and Skills that is expected from DevOps engineer:
+
+Able to perform system troubleshooting and problem-solving across platform and application domains.
+Manage project effectively through open, standards-based platforms
+Increase project visibility thought traceability
+Improve quality and reduce development cost with collaboration
+Analyse, design and evaluate automation scripts & systems
+Ensuring critical resolution of system issues by using the best cloud security solutions services
+DevOps engineer should have the soft skill of problem-solver and quick-learner
