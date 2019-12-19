@@ -1,0 +1,8 @@
+tools:
+
+Git and Github
+Docker
+Ansible
+Kubernetes
+AWS
+Chef
