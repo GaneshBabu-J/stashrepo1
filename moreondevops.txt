@@ -18,3 +18,9 @@ Here, are six principles which are essential when adopting DevOps:
 5. Work as one team: In the DevOps culture role of the designer, developer, and tester are already defined. All they needed to do is work as one team with complete collaboration.
 
 6. Monitor and test everything: It is very important for DevOps team to have a robust monitoring and testing procedures.
+
+This line is added to check with respect to the audit logs available in the
+stash
+
+lets make a commmit and push it to the remote branch
+
