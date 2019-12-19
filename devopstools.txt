@@ -6,3 +6,8 @@ Ansible
 Kubernetes
 AWS
 Chef
+Puppet
+Jenkins
+Jira
+JSD
+
